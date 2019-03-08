@@ -23,8 +23,9 @@
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="371" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="137" />
+    <option name="y" value="362" />
     <option name="width" value="1440" />
     <option name="height" value="1085" />
   </component>
@@ -53,6 +54,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TQC\Desktop\新建9" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
